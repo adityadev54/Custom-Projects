@@ -1,16 +1,13 @@
 # spera
 
-A new Flutter project.
+Spera is a platform that facilitates the curation and dissemination of knowledge from diverse sources. Within this platform, we have utilized the “Evergreen Sources” category to compile and aggregate historical and prospective data, transforming it into audios and videos to enhance visual appeal and comprehension. 
 
-## Getting Started
+All of this was powered by Google’s Notebook LLM, which was our most valuable tool integrated into our application.
 
-This project is a starting point for a Flutter application.
+The provided features include:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Discover: This feature allows users to obtain more accurate results by utilizing filters.
+2. Requests: Users can request knowledge and receive results within 24 hours. However, there is a daily request limit of five.
+3. Integration with Transcriptions, Chapters, and Sources: These features enhance the overall functionality of the platform.
+4. Gamification: The platform incorporates streaks to motivate users.
+5. Customization Options: Users can set daily goals, adjust playback speed, enable haptics and animations, and access offline support. Additionally, there is a quick access option for administrators and screen management.
